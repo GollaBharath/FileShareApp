@@ -1,0 +1,10 @@
+# Ignore PyInstaller build artifacts
+build/
+.vscode/
+venv/
+__pycache__/
+*.spec
+*.exe
+*.zip
+*.log
+*.db
